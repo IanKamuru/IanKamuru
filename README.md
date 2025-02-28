@@ -1,6 +1,6 @@
-👋 Hi, I’m @IanKamuru
-I’m interested in studying programming
-I’m currently learning BSC in Mathematics
+👋 Hi, I’m IanKamuru,
+I’m interested in studying programming,
+I’m currently learning BSC in Mathematics at Technical University of Kenya.
 iyanmwangi776@gmail.com
 0711879980
 - ⚡ Fun fact: ...
