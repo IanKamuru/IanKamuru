@@ -1,4 +1,4 @@
-👋 Hi, I’m IanKamuru,
+Hi, 👋 I’m IanKamuru,
 I’m interested in studying programming,
 I’m currently learning BSC in Mathematics at Technical University of Kenya.
 Aiming to be a Data Scientist.
